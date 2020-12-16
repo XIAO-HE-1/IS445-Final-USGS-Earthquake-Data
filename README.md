@@ -9,7 +9,7 @@
 ### USGS Earthquake Dataset
 <img src="https://github.com/XIAO-HE-1/IS445-Final-USGS-Earthquake-Data/blob/main/usgs_picture.png" width="800">  
 
-* Our data is retrieved from the [US Geological Survey](https://www.usgs.gov/natural-hazards/earthquake-hazards/earthquakes), And here is [download address]((https://earthquake.usgs.gov/earthquakes/search/))
+* Our data is retrieved from the [US Geological Survey](https://www.usgs.gov/natural-hazards/earthquake-hazards/earthquakes), And here is [download address](https://earthquake.usgs.gov/earthquakes/search/)
 * In our visualization report, we used both [historical data](https://github.com/XIAO-HE-1/IS445-Final-USGS-Earthquake-Data/blob/main/EarthquakeData_12092020-12162020.csv) and [real-time data in the last hour](https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_hour.geojson)
 * The dataset includes time, location information(latitude,longitude, place), earthquake information(magnitude, earthquake type), measurement error(horizontal Error, depth Error) etc.  
   * Explanation of some variables
