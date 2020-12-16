@@ -12,7 +12,7 @@
 * Our data is retrieved from the [US Geological Survey](https://www.usgs.gov/natural-hazards/earthquake-hazards/earthquakes). 
 * In our visualization report, we used both [historical data](https://earthquake.usgs.gov/earthquakes/search/) and [real-time data in the last hour](https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_hour.geojson)
 * The dataset includes time, location information(latitude,longitude, place), earthquake information(magnitude, earthquake type), measurement error(horizontal Error, depth Error) etc.  
-  * Explanation of some varables
+  * Explanation of some variables
       * Depth Error: Uncertainty of reported depth of the event in kilometers.
       * Magnitude Error: Uncertainty of reported magnitude of the event. The estimated standard error of the magnitude. The uncertainty corresponds to the specific magnitude type being reported and does not take into account magnitude variations and biases between different magnitude scales. 
       * Horizontal Error: The horizontal location error, in km, defined as the length of the largest projection of the three principal errors on a horizontal plane. The principal errors are the major axes of the error ellipsoid, and are mutually perpendicular. The horizontal and vertical uncertainties in an event's location varies from about 100 m horizontally and 300 meters vertically for the best located events, those in the middle of densely spaced seismograph networks, to 10s of kilometers for global events in many parts of the world. 
