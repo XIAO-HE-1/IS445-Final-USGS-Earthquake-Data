@@ -1,11 +1,12 @@
 # IS445 Data Visualization Final Project
-| Team 4     | Name          | NetID |
-| ------------- |:-------------:| :-----:|
-|               | Xiao HE | xiaohe4 |
-|       | Alka Mishra |   alkaam2 |
-|       | Tyler Hicks |   tylerch2 |
-|       | Erick Li |  zhiyuan5 |
-|       | Chien-Ju Chen |  chienju2 |  
+## Team 4
+| Name          | NetID |
+|:-------------:| :-----:|
+| Xiao HE | xiaohe4 |
+| Alka Mishra |   alkaam2 |
+| Tyler Hicks |   tylerch2 |
+| Erick Li |  zhiyuan5 |
+| Chien-Ju Chen |  chienju2 |  
 
 The Link to our final project is [here](https://github.com/XIAO-HE-1/IS445-Final-USGS-Earthquake-Data/blob/main/Earthquake_Visualization_IS445_Group4.ipynb). 
 Note: Our dashboard will show up correctly after running the code in your environment.
